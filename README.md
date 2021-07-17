@@ -1,0 +1,1 @@
+This is Schlomp's first git project!
